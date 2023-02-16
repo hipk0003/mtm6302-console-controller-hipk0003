@@ -1,6 +1,9 @@
-button{
-    background-color: darkgrey;
-    padding: 1rem;
-    border: none;
-
+body {
+    background-color: white;
+    color: black;
+    font-size: 25px;
+}
+.dark {
+    background-color: black;
+    color: white;
 }
